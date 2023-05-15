@@ -1,0 +1,8 @@
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Rathore
+    middle-names: Kailashi
+    given-names: Ankit
+    orcid: https://orcid.org/0000-0003-1499-1725
+title: "Morphometry Code used in QGIS"
+
